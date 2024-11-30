@@ -1,2 +1,2 @@
 # ACP-project
-ACP semester projects on java mid project as well as final project is added here
+ACP semester projects on java (mid project with file handling is added here
